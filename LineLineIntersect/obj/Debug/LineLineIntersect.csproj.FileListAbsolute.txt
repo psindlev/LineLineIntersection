@@ -1,0 +1,7 @@
+C:\Users\pas\source\repos\LineLineIntersect\LineLineIntersect\bin\Debug\LineLineIntersect.exe.config
+C:\Users\pas\source\repos\LineLineIntersect\LineLineIntersect\bin\Debug\LineLineIntersect.exe
+C:\Users\pas\source\repos\LineLineIntersect\LineLineIntersect\bin\Debug\LineLineIntersect.pdb
+C:\Users\pas\source\repos\LineLineIntersect\LineLineIntersect\obj\Debug\LineLineIntersect.csprojAssemblyReference.cache
+C:\Users\pas\source\repos\LineLineIntersect\LineLineIntersect\obj\Debug\LineLineIntersect.csproj.CoreCompileInputs.cache
+C:\Users\pas\source\repos\LineLineIntersect\LineLineIntersect\obj\Debug\LineLineIntersect.exe
+C:\Users\pas\source\repos\LineLineIntersect\LineLineIntersect\obj\Debug\LineLineIntersect.pdb
